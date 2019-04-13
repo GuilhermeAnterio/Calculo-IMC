@@ -12,12 +12,6 @@ namespace Calculo_do_IMC
         {
             double massa, imc, altura;
             
-
-            
-            
-
-
-
             Console.WriteLine("Digita a massa:");
             massa = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Digita a altura:");
@@ -28,8 +22,8 @@ namespace Calculo_do_IMC
                 Console.WriteLine("esta no peso ideal");
             else
             if (imc <= 25)
-            
                 Console.WriteLine("esta obeso");
+                Console.WriteLine("Come menos");
             Console.ReadKey();
 
 
