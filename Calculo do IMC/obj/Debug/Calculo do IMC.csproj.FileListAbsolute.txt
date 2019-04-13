@@ -1,0 +1,7 @@
+D:\vs\Calculo do IMC\Calculo do IMC\obj\Debug\Calculo do IMC.csprojAssemblyReference.cache
+D:\vs\Calculo do IMC\Calculo do IMC\obj\Debug\Calculo do IMC.csproj.CoreCompileInputs.cache
+D:\vs\Calculo do IMC\Calculo do IMC\bin\Debug\Calculo do IMC.exe.config
+D:\vs\Calculo do IMC\Calculo do IMC\bin\Debug\Calculo do IMC.exe
+D:\vs\Calculo do IMC\Calculo do IMC\bin\Debug\Calculo do IMC.pdb
+D:\vs\Calculo do IMC\Calculo do IMC\obj\Debug\Calculo do IMC.exe
+D:\vs\Calculo do IMC\Calculo do IMC\obj\Debug\Calculo do IMC.pdb
