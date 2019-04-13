@@ -24,14 +24,14 @@ namespace Calculo_do_IMC
             if (imc <= 25)
                 Console.WriteLine("esta obeso");
                 Console.WriteLine("Come menos");
+                Console.WriteLine("Obrigado pela ajuda, bom dia ");
             Console.ReadKey();
 
 
 
 
 
-
-
+le
 
             
 
