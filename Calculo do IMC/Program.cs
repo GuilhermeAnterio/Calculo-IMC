@@ -19,19 +19,19 @@ namespace Calculo_do_IMC
 
             imc = massa / (altura * 2);
             if (imc >= 18.5) 
-                Console.WriteLine("esta no peso ideal");
+                Console.WriteLine("Esta no peso ideal");
             else
             if (imc <= 25)
-                Console.WriteLine("esta obeso");
-                Console.WriteLine("Come menos");
-                Console.WriteLine("Obrigado pela ajuda, bom dia ");
+                Console.WriteLine("Esta obeso");
+            Console.WriteLine("Obrigado pela ajuda");
+               
             Console.ReadKey();
 
 
 
 
 
-le
+
 
             
 
